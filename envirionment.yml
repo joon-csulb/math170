@@ -1,0 +1,10 @@
+name: math170-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - ipywidgets
+  - numpy
+  - pandas
+  - sympy
